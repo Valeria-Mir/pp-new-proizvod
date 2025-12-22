@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://Valeria-Mir.github.io/pp-new-proizvod/static/css/main.51568083.css",
-    "main.js": "https://Valeria-Mir.github.io/pp-new-proizvod/static/js/main.bdd0c4cc.js",
+    "main.js": "https://Valeria-Mir.github.io/pp-new-proizvod/static/js/main.f796e262.js",
     "index.html": "https://Valeria-Mir.github.io/pp-new-proizvod/index.html",
     "main.51568083.css.map": "https://Valeria-Mir.github.io/pp-new-proizvod/static/css/main.51568083.css.map",
-    "main.bdd0c4cc.js.map": "https://Valeria-Mir.github.io/pp-new-proizvod/static/js/main.bdd0c4cc.js.map"
+    "main.f796e262.js.map": "https://Valeria-Mir.github.io/pp-new-proizvod/static/js/main.f796e262.js.map"
   },
   "entrypoints": [
     "static/css/main.51568083.css",
-    "static/js/main.bdd0c4cc.js"
+    "static/js/main.f796e262.js"
   ]
 }
